@@ -1,0 +1,340 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+/* Header Styles */
+.header {
+  width: 100%;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.header__logo a {
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 28px;
+  color: rgb(0, 0, 255);
+  margin: auto 80px;
+  text-decoration: none;
+}
+
+.header__nav {
+  margin-left: auto;
+}
+
+.header__nav a {
+  margin-right: 40px;
+  font-family: Arial;
+  font-weight: lighter;
+  font-size: 16px;
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.header__auth {
+  margin-left: 40px;
+}
+
+.header__auth a {
+  margin-right: 20px;
+  font-family: Arial;
+  font-weight: 65 Medium;
+  font-size: 16px;
+  color: #000;
+  text-decoration: none;
+}
+/* hero styles*/
+.main-section {
+  width: 100%;
+}
+
+.hero {
+  width: auto;
+  height: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.hero__text {
+  padding: 5% 0% 10% 5%;
+  background-color: rgba(255, 255, 255, 0.72);
+}
+
+.hero__text h1 {
+  width: 50%;
+  font-family: 'Inter';
+  font-size: 62px;
+}
+/* image-left Styles */
+.image-left {
+  position: relative;
+  float: left;
+  top: -50px;
+  left: -65px;
+  width: fit-content;
+  height: fit-content;
+  margin: 0;
+}
+
+.image-left img {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
+
+/* About styles */
+.about-section {
+  background-color: #e6e6e6;
+  padding: 3% 5%;
+}
+.about-section__text{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about-section__text h1{
+  font-family: Poppins;
+  width: 50%;
+  padding: 0 5%;
+  font-weight: 500;
+  font-size: 24px;
+}
+.about-section__text p {
+  text-align: justify;
+  font-family: Inter;
+  font-weight: Regular;
+  padding-left: 12%;
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 60%;
+}
+
+/* aspek hukum ketenagakerjaan */
+.services-section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.services-section h2 {
+  text-align: center;
+}
+
+.service-card__container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.service-card {
+  background-color: #e6e6e6;
+  border-radius: 8px;
+  padding: 20px 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-5px);
+}
+
+.service-card.blue {
+  background-color: blue;
+}
+
+.service-card.blue p{
+  background-color: blue;
+  color: #fff;
+}
+
+.service-card__text {
+  text-align: justify;
+}
+
+.service-card .service-card__text .title-card {
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+.service-card.blue .service-card__text .title-card {
+  background-color: #e6e6e6;
+}
+
+.service-card__text .title-card h3 {
+  padding: 5px;
+}
+
+.title-card {
+  margin-bottom: 1rem;
+}
+
+.goals {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  font-style: italic;
+  color: #555;
+}
+
+/* image-right Styles */
+.image-right {
+  position: relative;
+  float: right;
+  top: -100px;
+  right: 130px;
+  width: fit-content;
+  height: fit-content;
+  margin: 0;
+}
+
+.image-right img {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
+
+/* Undang-Undang Hukum Ketenagakerjaan */
+.laws-des {
+  width: 100%;
+  margin: 0;
+}
+.laws-des h2 {
+  text-align: center;
+}
+
+.des-blue, .des {
+  display: flex;
+  align-items: center;
+  padding: 0 5%;
+}
+
+.des-blue {
+  background-color: blue;
+  color: #fff;
+}
+
+.des-text {
+  text-align: justify;
+  margin: 0 20px;
+}
+
+.des-text h3 {
+  text-align: center;
+}
+
+.des-blue img, .des img {
+  margin: 0 10px;
+  width: 306.5px;
+  height: 340px;
+}
+
+.des h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.des h3 {
+  margin-bottom: 1rem;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: rgb(249, 250, 215);
+  width: 100%;
+  height: auto;
+  color: #000;
+  padding: 25px 0;
+}
+
+.footer__description {
+  position: relative;
+  font-family: "Avenir LT Std";
+  font-size: 20px;
+  margin: 16px 5%;
+}
+
+.footer__container {
+  display: flex;
+  margin: 1% 5.7%;
+  justify-content: space-between;
+}
+
+.footer__logo {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 24px;
+  color: #0d08f9;
+}
+
+.footer__list {
+  display: flex;
+  align-items: flex-start;
+}
+
+.footer__nav, .footer__contact {
+  display: flex;
+  flex-direction: column;
+  margin: 0 16px;
+}
+
+.footer__nav span, .footer__contact span {
+  font-family: Poppins;
+  font-weight: 300;
+  font-size: 14px;
+  color: #000;
+  margin-bottom: 18px;
+}
+
+.footer__nav a, .footer__contact a {
+  font-family: Poppins;
+  font-weight: 300;
+  font-size: 12px;
+  color: #000;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.footer__bottom {
+  border-top: #fff solid 1px;
+  display: flex;
+  margin: auto 5%;
+  justify-content: space-between;
+}
+
+.footer__copyright {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.footer__social{
+  display: flex;
+  position: relative;
+}
+.footer__social a {
+  display: inline-flex;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 12px;
+  color: #000;
+  padding: 0 14px;
+  text-decoration: none;
+}

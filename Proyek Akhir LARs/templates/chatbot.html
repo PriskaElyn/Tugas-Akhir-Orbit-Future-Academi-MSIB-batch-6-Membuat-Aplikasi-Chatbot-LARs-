@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap"
+        rel="stylesheet"
+    />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,700;1,700&display=swap"
+        rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css?family=Gelion&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link href="../static/css/chatbot.css" rel="stylesheet" />
+    <title>LARs Chatbot</title>
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <button id="tombolKembali"><span class="material-symbols-outlined">arrow_back</span></button>
+            <div id="containerAnimasi">
+                <div id="animasiGeser"></div>
+            </div>
+            <div class="sidebar-top">
+                <div class="logo">
+                    <h1>LARs</h1>
+                    <img src="../static/images/v242_1280.png">
+                </div>
+                <div class="chats-history">
+                    <div class="history-head">
+                        <a href="#"><span class="material-symbols-outlined">forum</span>Chatbots</a>
+                    </div>
+                    
+                </div>
+            </div>
+            <div class="sidebar-bottom">
+                <nav>
+                    <ul>
+                        <li><a href="#"><span class="material-symbols-outlined">help</span>FAQ</a></li>
+                        <li><a href="#"><span class="material-symbols-outlined">settings</span>Settings</a></li>
+                    </ul>
+                </nav>
+                <div class="user-info">
+                    <div class="user-info-container">
+                            <img src="../static/images/v242_1276.png" alt="User Avatar" />
+                        <div class="user-name">
+                            <span>Brian Da Santos</span>
+                            <p>briandasantos@gmail.com</p>
+                        </div>
+                        <div class="tag-free">
+                            <p>Free</p>
+                        </div>
+                    </div>
+                    <div class="user-info-btn">
+                        <button>Upgrade to Pro</button>
+                    </div>
+                </div>
+                <div class="theme-toggle">
+                    <span class="light-mode">
+                      <span class="material-symbols-outlined">light_mode</span>
+                    </span>
+                    <div class="switch">
+                      <input type="checkbox" id="switch" class="switch-input" />
+                      <label for="switch" class="switch-label">
+                        <span class="switch-circle"></span>
+                      </label>
+                    </div>
+                    <span class="dark-mode">
+                      <span class="material-symbols-outlined">dark_mode</span>
+                    </span>
+                </div>
+            </div>
+        </aside>
+        <main class="box">
+            <div class="chatbox" style="background-image: url(../static/images/v242_1280.png);">
+                <div class="chat-body">
+                    <div class="chat-op">
+                        <div class="chat-op-container">
+                            <img src="../static/images/v242_1280.png">
+                            <h1>LARs</h1>
+                            <p>How can I Help you today?</p>
+                        </div>
+                    </div>
+                    <!-- Chat messages will be dynamically added here -->
+                </div>
+                <div class="chat-input">
+                    <textarea placeholder="Type something..." id="input-chat" rows="1"></textarea>
+                    <button>
+                        <span class="material-symbols-outlined">send</span>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+<script src="../static/Javascript/main.js"></script>
+<script src="../static/Javascript/chat.js"></script>
+</html>

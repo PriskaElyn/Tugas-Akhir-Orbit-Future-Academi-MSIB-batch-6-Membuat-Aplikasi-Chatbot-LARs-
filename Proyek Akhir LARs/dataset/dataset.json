@@ -1,0 +1,707 @@
+[
+    {
+        "context": "Hukum ketenagakerjaan adalah hukum yang mengatur segala hal yang berkaitan dengan hubungan kerja antara pekerja dan pengusaha atau majikan.",
+        "qas": [
+            {
+                "id": "00001",
+                "question": "Apa itu hukum ketenagakerjaan?",
+                "answers": [
+                    {
+                        "text": "Hukum ketenagakerjaan adalah hukum yang mengatur segala hal yang berkaitan dengan hubungan kerja antara pekerja dan pengusaha atau majikan.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Hak-hak pekerja yang dilindungi oleh hukum ketenagakerjaan antara lain hak atas upah yang layak, hak atas jaminan sosial, hak atas keselamatan dan kesehatan kerja, hak atas cuti, dan hak untuk membentuk serikat pekerja.",
+        "qas": [
+            {
+                "id": "00002",
+                "question": "Apa saja hak-hak pekerja yang dilindungi oleh hukum ketenagakerjaan?",
+                "answers": [
+                    {
+                        "text": "Hak-hak pekerja yang dilindungi oleh hukum ketenagakerjaan antara lain hak atas upah yang layak, hak atas jaminan sosial, hak atas keselamatan dan kesehatan kerja, hak atas cuti, dan hak untuk membentuk serikat pekerja.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Proses penyelesaian sengketa ketenagakerjaan dapat dilakukan melalui jalur bipartit (perundingan antara pekerja dan pengusaha), tripartit (dengan melibatkan Dinas Ketenagakerjaan), atau melalui Pengadilan Hubungan Industrial.",
+        "qas": [
+            {
+                "id": "00003",
+                "question": "Bagaimana proses penyelesaian sengketa ketenagakerjaan?",
+                "answers": [
+                    {
+                        "text": "Proses penyelesaian sengketa ketenagakerjaan dapat dilakukan melalui jalur bipartit (perundingan antara pekerja dan pengusaha), tripartit (dengan melibatkan Dinas Ketenagakerjaan), atau melalui Pengadilan Hubungan Industrial.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Outsourcing adalah penyerahan sebagian pelaksanaan pekerjaan kepada perusahaan lain. Dalam praktik outsourcing, terdapat hubungan kerja antara pekerja outsourcing dengan perusahaan penyedia jasa outsourcing yang harus diatur sesuai dengan hukum ketenagakerjaan.",
+        "qas": [
+            {
+                "id": "00004",
+                "question": "Apa itu outsourcing dan apa hubungannya dengan hukum ketenagakerjaan?",
+                "answers": [
+                    {
+                        "text": "Outsourcing adalah penyerahan sebagian pelaksanaan pekerjaan kepada perusahaan lain. Dalam praktik outsourcing, terdapat hubungan kerja antara pekerja outsourcing dengan perusahaan penyedia jasa outsourcing yang harus diatur sesuai dengan hukum ketenagakerjaan.",
+                        "answer_start": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Undang-Undang Perdata di Indonesia Undang-undang perdata di Indonesia yang utama adalah Kitab Undang-Undang Hukum Perdata (KUH Perdata). KUH Perdata ini diberlakukan di Indonesia melalui Staatsblad Nomor 62 Tahun 1830 dan masih berlaku hingga saat ini. KUH Perdata merupakan terjemahan dari Burgerlijk Wetboek (BW) yang berlaku di Belanda. KUH Perdata mengatur berbagai hal terkait dengan hukum perdata, seperti: Keperibadian: Hak dan kewajiban seseorang sebagai subjek hukum. Keluarga: Pernikahan, perceraian, perwalian, dan asuh anak. Harta Benda: Kepemilikan, hak kebendaan, dan perikatan. Perikatan: Perjanjian, wanprestasi, dan tanggung jawab. Ketentuan Penutup: Aturan umum tentang penerapan KUH Perdata.",
+        "qas": [
+            {
+                "id": "00005",
+                "question": "Apa nama undang-undang perdata utama di Indonesia?",
+                "answers": [
+                    {
+                        "text": "Kitab Undang-Undang Hukum Perdata (KUH Perdata)",
+                        "answer_start": 43
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "question": "Apa yang diatur dalam KUH Perdata?",
+                "answers": [
+                    {
+                        "text": "Keperibadian: Hak dan kewajiban seseorang sebagai subjek hukum. Keluarga: Pernikahan, perceraian, perwalian, dan asuh anak. Harta Benda: Kepemilikan, hak kebendaan, dan perikatan. Perikatan: Perjanjian, wanprestasi, dan tanggung jawab. Ketentuan Penutup: Aturan umum tentang penerapan KUH Perdata.",
+                        "answer_start": 301
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "question": "Dari mana KUH Perdata berasal?",
+                "answers": [
+                    {
+                        "text": "KUH Perdata merupakan terjemahan dari Burgerlijk Wetboek (BW) yang berlaku di Belanda.",
+                        "answer_start": 172
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Selain KUH Perdata, terdapat beberapa undang-undang lain yang mengatur tentang hukum perdata di Indonesia, antara lain: Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan, Undang-Undang Nomor 32 Tahun 2002 tentang Perlindungan dan Pengelolaan Lingkungan Hidup, Undang-Undang Nomor 28 Tahun 2004 tentang Hak Cipta, Paten, dan Desain Industri, Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja. Perlu diingat bahwa KUH Perdata merupakan undang-undang yang sudah tua dan tidak selalu sesuai dengan perkembangan zaman. Oleh karena itu, perlu dilakukan revisi terhadap KUH Perdata agar lebih sesuai dengan kebutuhan masyarakat saat ini.",
+        "qas": [
+            {
+                "id": "00008",
+                "question": "Apa saja undang-undang lain yang mengatur hukum perdata di Indonesia?",
+                "answers": [
+                    {
+                        "text": "Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan, Undang-Undang Nomor 32 Tahun 2002 tentang Perlindungan dan Pengelolaan Lingkungan Hidup, Undang-Undang Nomor 28 Tahun 2004 tentang Hak Cipta, Paten, dan Desain Industri, Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja",
+                        "answer_start": 71
+                    }
+                ]
+            },
+            {
+                "id": "00009",
+                "question": "Mengapa perlu dilakukan revisi terhadap KUH Perdata?",
+                "answers": [
+                    {
+                        "text": "Perlu diingat bahwa KUH Perdata merupakan undang-undang yang sudah tua dan tidak selalu sesuai dengan perkembangan zaman. Oleh karena itu, perlu dilakukan revisi terhadap KUH Perdata agar lebih sesuai dengan kebutuhan masyarakat saat ini.",
+                        "answer_start": 330
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Di Indonesia, terdapat beberapa undang-undang yang mengatur tentang ketenagakerjaan, dengan undang-undang utama yang menjadi dasar adalah: \n1. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan \n2. Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja \n3. Peraturan Perundang-undangan Lainnya \nSelain dua undang-undang utama di atas, terdapat juga beberapa peraturan perundang-undangan lainnya yang mengatur tentang ketenagakerjaan, antara lain: \n-Peraturan Pemerintah Nomor 34 Tahun 2021 tentang Penggunaan Tenaga Kerja Asing \n-Peraturan Pemerintah Nomor 35 Tahun 2021 tentang Perjanjian Kerja Waktu Tertentu, Alih Daya, Waktu Kerja dan Waktu Istirahat, dan Pemutusan Hubungan Kerja \n-Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan \n-Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan",
+        "qas": [
+            {
+                "id": "00010",
+                "question": "Berapakah nomor UU Ketenagakerjaan?",
+                "answers": [
+                    {
+                        "text": "UU Ketenagakerjaan di Indonesia bernomor 13 dan dibuat pada tahun 2003.",
+                        "answer_start": 171
+                    }
+                ]
+            },
+            {
+                "id": "0011",
+                "question": "UU Ketenagakerjaan dibuat pada tahun berapa?",
+                "answers": [
+                    {
+                        "text": "UU Ketenagakerjaan di Indonesia bernomor 13 dan dibuat pada tahun 2003.",
+                        "answer_start": 171
+                    }
+                ]
+            },
+            {
+                "id": "0012",
+                "question": "Nomor dan tahun UU Ketenagakerjaan?",
+                "answers": [
+                    {
+                        "text": "UU Ketenagakerjaan di Indonesia bernomor 13 dan dibuat pada tahun 2003.",
+                        "answer_start": 171
+                    }
+                ]
+            },
+            {
+                "id": "0013",
+                "question": "apa saja undang-undang yang mengatur tentang ketenagakerjaan",
+                "answers": [
+                    {
+                        "text": "Di Indonesia, terdapat beberapa undang-undang yang mengatur tentang ketenagakerjaan, dengan undang-undang utama yang menjadi dasar adalah: \n1. Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan \n2. Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja \n3. Peraturan Perundang-undangan Lainnya \nSelain dua undang-undang utama di atas, terdapat juga beberapa peraturan perundang-undangan lainnya yang mengatur tentang ketenagakerjaan, antara lain: \n-Peraturan Pemerintah Nomor 34 Tahun 2021 tentang Penggunaan Tenaga Kerja Asing \n-Peraturan Pemerintah Nomor 35 Tahun 2021 tentang Perjanjian Kerja Waktu Tertentu, Alih Daya, Waktu Kerja dan Waktu Istirahat, dan Pemutusan Hubungan Kerja \n-Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan \n-Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "0014",
+                "question": "sebutkan undang-undang yang mengatur tentang ketenagakerjaan selain nomor 13 tahun 2003?",
+                "answers": [
+                    {
+                        "text": "-Peraturan Pemerintah Nomor 34 Tahun 2021 tentang Penggunaan Tenaga Kerja Asing \n-Peraturan Pemerintah Nomor 35 Tahun 2021 tentang Perjanjian Kerja Waktu Tertentu, Alih Daya, Waktu Kerja dan Waktu Istirahat, dan Pemutusan Hubungan Kerja \n-Peraturan Pemerintah Nomor 36 Tahun 2021 tentang Pengupahan \n-Peraturan Pemerintah Nomor 37 Tahun 2021 tentang Penyelenggaraan Program Jaminan Kehilangan Pekerjaan",
+                        "answer_start": 365
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Ruang lingkup hukum ketenagakerjaan di Indonesia secara garis besar dapat dibagi menjadi 3 aspek, yaitu: \n1. Ruang Lingkup Pribadi \nRuang lingkup pribadi berkaitan dengan siapa atau apa yang diatur oleh hukum ketenagakerjaan. \n2. Ruang Lingkup Hal Ikhwal \nRuang lingkup hal ikhwal berkaitan dengan apa saja yang diatur oleh hukum ketenagakerjaan. \n3. Ruang Lingkup Waktu \nRuang lingkup waktu berkaitan dengan kapan hukum ketenagakerjaan mulai berlaku dan berakhir.",
+        "qas": [
+            {
+                "id": "0015",
+                "question": "Apa saja yang termasuk dalam ruang lingkup hukum ketenagakerjaan?",
+                "answers": [
+                    {
+                        "text": "1. Ruang Lingkup Pribadi \nRuang lingkup pribadi berkaitan dengan siapa atau apa yang diatur oleh hukum ketenagakerjaan. \n2. Ruang Lingkup Hal Ikhwal \nRuang lingkup hal ikhwal berkaitan dengan apa saja yang diatur oleh hukum ketenagakerjaan. \n3. Ruang Lingkup Waktu \nRuang lingkup waktu berkaitan dengan kapan hukum ketenagakerjaan mulai berlaku dan berakhir.",
+                        "answer_start": 118
+                    }
+                ]
+            },
+            {
+                "id": "0016",
+                "question": "Sebutkan ruang lingkup dari hukum ketenagakerjaan di Indonesia?",
+                "answers": [
+                    {
+                        "text": "1. Ruang Lingkup Pribadi \nRuang lingkup pribadi berkaitan dengan siapa atau apa yang diatur oleh hukum ketenagakerjaan. \n2. Ruang Lingkup Hal Ikhwal \nRuang lingkup hal ikhwal berkaitan dengan apa saja yang diatur oleh hukum ketenagakerjaan. \n3. Ruang Lingkup Waktu \nRuang lingkup waktu berkaitan dengan kapan hukum ketenagakerjaan mulai berlaku dan berakhir.",
+                        "answer_start": 118
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Undang-undang perdata di Indonesia yang utama adalah Kitab Undang-Undang Hukum Perdata (KUH Perdata). KUH Perdata ini diberlakukan di Indonesia melalui Staatsblad Nomor 62 Tahun 1830 dan masih berlaku hingga saat ini. KUH Perdata merupakan terjemahan dari Burgerlijk Wetboek (BW) yang berlaku di Belanda. KUH Perdata mengatur berbagai hal terkait dengan hukum perdata, seperti keperibadian, keluarga, harta benda, perikatan, dan ketentuan penutup. Selain KUH Perdata, terdapat beberapa undang-undang lain yang mengatur tentang hukum perdata di Indonesia, antara lain UU Nomor 1 Tahun 1974 tentang Perkawinan, UU Nomor 41 Tahun 1999 tentang Kehutanan, UU Nomor 32 Tahun 2002 tentang Perlindungan dan Pengelolaan Lingkungan Hidup, UU Nomor 28 Tahun 2004 tentang Hak Cipta, Paten, dan Desain Industri, serta UU Nomor 11 Tahun 2020 tentang Cipta Kerja. Perlu diingat bahwa KUH Perdata merupakan undang-undang yang sudah tua dan tidak selalu sesuai dengan perkembangan zaman. Oleh karena itu, perlu dilakukan revisi terhadap KUH Perdata agar lebih sesuai dengan kebutuhan masyarakat saat ini.",
+        "qas": [
+            {
+                "id": "00017",
+                "question": "Apa undang-undang perdata utama yang berlaku di Indonesia?",
+                "answers": [
+                    {
+                        "text": "Undang-undang perdata utama yang berlaku di Indonesia adalah Kitab Undang-Undang Hukum Perdata (KUH Perdata).",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00018",
+                "question": "Melalui dasar hukum apa KUH Perdata diberlakukan di Indonesia?",
+                "answers": [
+                    {
+                        "text": "KUH Perdata diberlakukan di Indonesia melalui Staatsblad Nomor 62 Tahun 1830.",
+                        "answer_start": 117
+                    }
+                ]
+            },
+            {
+                "id": "00019",
+                "question": "Apa saja materi yang diatur dalam KUH Perdata?",
+                "answers": [
+                    {
+                        "text": "KUH Perdata mengatur berbagai hal terkait dengan hukum perdata, seperti keperibadian, keluarga, harta benda, perikatan, dan ketentuan penutup.",
+                        "answer_start": 243
+                    }
+                ]
+            },
+            {
+                "id": "00020",
+                "question": "Selain KUH Perdata, undang-undang apa saja yang mengatur tentang hukum perdata di Indonesia?",
+                "answers": [
+                    {
+                        "text": "Selain KUH Perdata, terdapat beberapa undang-undang lain yang mengatur tentang hukum perdata di Indonesia, antara lain UU Nomor 1 Tahun 1974 tentang Perkawinan, UU Nomor 41 Tahun 1999 tentang Kehutanan, UU Nomor 32 Tahun 2002 tentang Perlindungan dan Pengelolaan Lingkungan Hidup, UU Nomor 28 Tahun 2004 tentang Hak Cipta, Paten, dan Desain Industri, serta UU Nomor 11 Tahun 2020 tentang Cipta Kerja.",
+                        "answer_start": 409
+                    }
+                ]
+            },
+            {
+                "id": "00021",
+                "question": "Mengapa perlu dilakukan revisi terhadap KUH Perdata?",
+                "answers": [
+                    {
+                        "text": "KUH Perdata perlu direvisi karena merupakan undang-undang yang sudah tua dan tidak selalu sesuai dengan perkembangan zaman, sehingga perlu disesuaikan dengan kebutuhan masyarakat saat ini.",
+                        "answer_start": 756
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Perjanjian kerja adalah perjanjian antara pekerja/buruh dengan pengusaha atau pemberi kerja yang memuat syarat-syarat kerja, hak, dan kewajiban para pihak. Jenis-jenis perjanjian kerja antara lain perjanjian kerja waktu tertentu (PKWT), perjanjian kerja waktu tidak tertentu (PKWTT), dan perjanjian kerja outsourcing. Syarat sah perjanjian kerja meliputi adanya kesepakatan, kecakapan, pekerjaan yang halal, dan tidak melanggar ketertiban umum. Cara membuat perjanjian kerja yang sah adalah dengan membuat secara tertulis, menggunakan bahasa yang jelas, dan memuat keterangan lengkap para pihak, jenis pekerjaan, upah, dan ketentuan lainnya. Jika perjanjian kerja tidak dibuat secara tertulis, maka dianggap tidak ada perjanjian kerja dan hubungan kerja berdasarkan peraturan perundang-undangan yang berlaku.",
+        "qas": [
+            {
+                "id": "00022",
+                "question": "Apa itu perjanjian kerja?",
+                "answers": [
+                    {
+                        "text": "Perjanjian kerja adalah perjanjian antara pekerja/buruh dengan pengusaha atau pemberi kerja yang memuat syarat-syarat kerja, hak, dan kewajiban para pihak.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00023",
+                "question": "Apa saja jenis-jenis perjanjian kerja?",
+                "answers": [
+                    {
+                        "text": "Jenis-jenis perjanjian kerja antara lain perjanjian kerja waktu tertentu (PKWT), perjanjian kerja waktu tidak tertentu (PKWTT), dan perjanjian kerja outsourcing.",
+                        "answer_start": 151
+                    }
+                ]
+            },
+            {
+                "id": "00024",
+                "question": "Apa saja syarat sah perjanjian kerja?",
+                "answers": [
+                    {
+                        "text": "Syarat sah perjanjian kerja meliputi adanya kesepakatan, kecakapan, pekerjaan yang halal, dan tidak melanggar ketertiban umum.",
+                        "answer_start": 287
+                    }
+                ]
+            },
+            {
+                "id": "00025",
+                "question": "Bagaimana cara membuat perjanjian kerja yang sah?",
+                "answers": [
+                    {
+                        "text": "Cara membuat perjanjian kerja yang sah adalah dengan membuat secara tertulis, menggunakan bahasa yang jelas, dan memuat keterangan lengkap para pihak, jenis pekerjaan, upah, dan ketentuan lainnya.",
+                        "answer_start": 396
+                    }
+                ]
+            },
+            {
+                "id": "00026",
+                "question": "Apa akibat hukum jika perjanjian kerja tidak dibuat secara tertulis?",
+                "answers": [
+                    {
+                        "text": "Jika perjanjian kerja tidak dibuat secara tertulis, maka dianggap tidak ada perjanjian kerja dan hubungan kerja berdasarkan peraturan perundang-undangan yang berlaku.",
+                        "answer_start": 593
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Perjanjian Kerja Bersama (PKB) adalah perjanjian yang merupakan hasil perundingan antara serikat pekerja/serikat buruh dengan pengusaha, yang memuat syarat-syarat kerja, hak dan kewajiban kedua belah pihak. Manfaat dari adanya PKB antara lain menjamin kepastian hukum, menjamin ketenangan bekerja dan berusaha, serta menciptakan hubungan industrial yang harmonis. Pihak-pihak yang terlibat dalam pembuatan PKB adalah serikat pekerja/serikat buruh dan pengusaha atau asosiasi pengusaha. Proses pembuatan PKB dimulai dengan perundingan, penandatanganan kesepakatan, dan pencatatan PKB oleh instansi ketenagakerjaan setempat. PKB berlaku selama 2 tahun dan dapat diperpanjang. Sanksi jika salah satu pihak melanggar ketentuan dalam PKB dapat berupa teguran, peringatan, atau denda sesuai dengan kesepakatan dalam PKB tersebut.",
+        "qas": [
+            {
+                "id": "00027",
+                "question": "Apa itu Perjanjian Kerja Bersama (PKB)?",
+                "answers": [
+                    {
+                        "text": "Perjanjian Kerja Bersama (PKB) adalah perjanjian yang merupakan hasil perundingan antara serikat pekerja/serikat buruh dengan pengusaha, yang memuat syarat-syarat kerja, hak dan kewajiban kedua belah pihak.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00028",
+                "question": "Apa manfaat dari adanya PKB?",
+                "answers": [
+                    {
+                        "text": "Manfaat dari adanya PKB antara lain menjamin kepastian hukum, menjamin ketenangan bekerja dan berusaha, serta menciptakan hubungan industrial yang harmonis.",
+                        "answer_start": 157
+                    }
+                ]
+            },
+            {
+                "id": "00029",
+                "question": "Siapa saja pihak-pihak yang terlibat dalam pembuatan PKB?",
+                "answers": [
+                    {
+                        "text": "Pihak-pihak yang terlibat dalam pembuatan PKB adalah serikat pekerja/serikat buruh dan pengusaha atau asosiasi pengusaha.",
+                        "answer_start": 330
+                    }
+                ]
+            },
+            {
+                "id": "00030",
+                "question": "Bagaimana proses pembuatan PKB?",
+                "answers": [
+                    {
+                        "text": "Proses pembuatan PKB dimulai dengan perundingan, penandatanganan kesepakatan, dan pencatatan PKB oleh instansi ketenagakerjaan setempat.",
+                        "answer_start": 417
+                    }
+                ]
+            },
+            {
+                "id": "00031",
+                "question": "Apa sanksi jika salah satu pihak melanggar ketentuan dalam PKB?",
+                "answers": [
+                    {
+                        "text": "Sanksi jika salah satu pihak melanggar ketentuan dalam PKB dapat berupa teguran, peringatan, atau denda sesuai dengan kesepakatan dalam PKB tersebut.",
+                        "answer_start": 523
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Upah adalah hak pekerja/buruh yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan dari pengusaha atau pemberi kerja kepada pekerja/buruh yang ditetapkan dan dibayarkan menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang-undangan. Cara menghitung upah lembur adalah upah per jam lembur = 1/173 x upah sebulan. Upah lembur per jam kerja lembur = upah per jam lembur x 1,5 (untuk lembur pertama) atau 2 (untuk lembur selanjutnya). Pesangon adalah uang penghargaan atau uang kompensasi yang diberikan oleh pengusaha kepada pekerja/buruh yang mengalami pemutusan hubungan kerja (PHK). Cara menghitung pesangon adalah gaji terakhir x masa kerja. Besaran pesangon minimal adalah 1 bulan upah terakhir untuk masa kerja kurang dari 1 tahun dan 9 bulan upah terakhir untuk masa kerja 8 tahun atau lebih. Jika pengusaha tidak membayar upah atau pesangon, pekerja dapat mengajukan gugatan ke pengadilan hubungan industrial atau melaporkan ke Dinas Ketenagakerjaan setempat.",
+        "qas": [
+            {
+                "id": "00032",
+                "question": "Apa itu upah?",
+                "answers": [
+                    {
+                        "text": "Upah adalah hak pekerja/buruh yang diterima dan dinyatakan dalam bentuk uang sebagai imbalan dari pengusaha atau pemberi kerja kepada pekerja/buruh yang ditetapkan dan dibayarkan menurut suatu perjanjian kerja, kesepakatan, atau peraturan perundang-undangan.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00033",
+                "question": "Bagaimana cara menghitung upah lembur?",
+                "answers": [
+                    {
+                        "text": "Cara menghitung upah lembur adalah upah per jam lembur = 1/173 x upah sebulan. Upah lembur per jam kerja lembur = upah per jam lembur x 1,5 (untuk lembur pertama) atau 2 (untuk lembur selanjutnya).",
+                        "answer_start": 174
+                    }
+                ]
+            },
+            {
+                "id": "00034",
+                "question": "Apa itu pesangon?",
+                "answers": [
+                    {
+                        "text": "Pesangon adalah uang penghargaan atau uang kompensasi yang diberikan oleh pengusaha kepada pekerja/buruh yang mengalami pemutusan hubungan kerja (PHK).",
+                        "answer_start": 369
+                    }
+                ]
+            },
+            {
+                "id": "00035",
+                "question": "Bagaimana cara menghitung pesangon?",
+                "answers": [
+                    {
+                        "text": "Cara menghitung pesangon adalah gaji terakhir x masa kerja. Besaran pesangon minimal adalah 1 bulan upah terakhir untuk masa kerja kurang dari 1 tahun dan 9 bulan upah terakhir untuk masa kerja 8 tahun atau lebih.",
+                        "answer_start": 488
+                    }
+                ]
+            },
+            {
+                "id": "00036",
+                "question": "Apa hak pekerja jika pengusaha tidak membayar upah atau pesangon?",
+                "answers": [
+                    {
+                        "text": "Jika pengusaha tidak membayar upah atau pesangon, pekerja dapat mengajukan gugatan ke pengadilan hubungan industrial atau melaporkan ke Dinas Ketenagakerjaan setempat.",
+                        "answer_start": 688
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Pemutusan Hubungan Kerja (PHK) adalah pengakhiran hubungan kerja antara pekerja/buruh dengan pengusaha yang dapat terjadi karena alasan tertentu. Alasan PHK dapat berupa pekerja/buruh melakukan kesalahan berat, perusahaan mengalami kerugian, perusahaan melakukan efisiensi, atau pekerja/buruh memasuki usia pensiun. Prosedur PHK meliputi pemanggilan pekerja/buruh, pemberian surat peringatan, memberikan kesempatan untuk membela diri, dan pembayaran hak-hak pekerja/buruh. Hak pekerja/buruh yang di-PHK antara lain menerima uang pesangon, uang penghargaan masa kerja, dan uang penggantian hak. Sengketa PHK dapat diselesaikan melalui perundingan bipartit, mediasi, konsiliasi, atau mengajukan gugatan ke Pengadilan Hubungan Industrial.",
+        "qas": [
+            {
+                "id": "00037",
+                "question": "Apa itu Pemutusan Hubungan Kerja (PHK)?",
+                "answers": [
+                    {
+                        "text": "Pemutusan Hubungan Kerja (PHK) adalah pengakhiran hubungan kerja antara pekerja/buruh dengan pengusaha yang dapat terjadi karena alasan tertentu.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00038",
+                "question": "Apa saja alasan yang dapat digunakan untuk melakukan PHK?",
+                "answers": [
+                    {
+                        "text": "Alasan PHK dapat berupa pekerja/buruh melakukan kesalahan berat, perusahaan mengalami kerugian, perusahaan melakukan efisiensi, atau pekerja/buruh memasuki usia pensiun.",
+                        "answer_start": 133
+                    }
+                ]
+            },
+            {
+                "id": "00039",
+                "question": "Apa prosedur yang harus diikuti dalam melakukan PHK?",
+                "answers": [
+                    {
+                        "text": "Prosedur PHK meliputi pemanggilan pekerja/buruh, pemberian surat peringatan, memberikan kesempatan untuk membela diri, dan pembayaran hak-hak pekerja/buruh.",
+                        "answer_start": 282
+                    }
+                ]
+            },
+            {
+                "id": "00040",
+                "question": "Apa hak pekerja/buruh yang di-PHK?",
+                "answers": [
+                    {
+                        "text": "Hak pekerja/buruh yang di-PHK antara lain menerima uang pesangon, uang penghargaan masa kerja, dan uang penggantian hak.",
+                        "answer_start": 439
+                    }
+                ]
+            },
+            {
+                "id": "00041",
+                "question": "Bagaimana cara menyelesaikan sengketa PHK?",
+                "answers": [
+                    {
+                        "text": "Sengketa PHK dapat diselesaikan melalui perundingan bipartit, mediasi, konsiliasi, atau mengajukan gugatan ke Pengadilan Hubungan Industrial.",
+                        "answer_start": 538
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Keselamatan dan kesehatan kerja (K3) adalah upaya untuk menciptakan lingkungan kerja yang aman, sehat, dan bebas dari kecelakaan kerja dan penyakit akibat kerja. Tujuan penerapan K3 adalah melindungi keselamatan pekerja/buruh, meningkatkan produktivitas kerja, dan mencegah kerugian akibat kecelakaan kerja. Manfaatnya antara lain menciptakan lingkungan kerja yang nyaman dan meminimalkan risiko kecelakaan. Tanggung jawab penerapan K3 ada pada pengusaha, pekerja/buruh, pemerintah, dan masyarakat. Kewajiban pengusaha terkait K3 meliputi menyediakan alat pelindung diri, memelihara lingkungan kerja, memberikan pelatihan K3, dan mengikutsertakan pekerja/buruh dalam program jaminan sosial ketenagakerjaan. Hak pekerja/buruh dalam hal K3 antara lain mendapatkan perlindungan keselamatan dan kesehatan kerja, mengajukan keluhan, dan mendapatkan ganti rugi jika mengalami kecelakaan kerja atau penyakit akibat kerja.",
+        "qas": [
+            {
+                "id": "00042",
+                "question": "Apa itu keselamatan dan kesehatan kerja (K3)?",
+                "answers": [
+                    {
+                        "text": "Keselamatan dan kesehatan kerja (K3) adalah upaya untuk menciptakan lingkungan kerja yang aman, sehat, dan bebas dari kecelakaan kerja dan penyakit akibat kerja.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00043",
+                "question": "Apa tujuan dan manfaat dari penerapan K3?",
+                "answers": [
+                    {
+                        "text": "Tujuan penerapan K3 adalah melindungi keselamatan pekerja/buruh, meningkatkan produktivitas kerja, dan mencegah kerugian akibat kecelakaan kerja. Manfaatnya antara lain menciptakan lingkungan kerja yang nyaman dan meminimalkan risiko kecelakaan.",
+                        "answer_start": 144
+                    }
+                ]
+            },
+            {
+                "id": "00044",
+                "question": "Siapa saja yang bertanggung jawab dalam penerapan K3?",
+                "answers": [
+                    {
+                        "text": "Tanggung jawab penerapan K3 ada pada pengusaha, pekerja/buruh, pemerintah, dan masyarakat.",
+                        "answer_start": 366
+                    }
+                ]
+            },
+            {
+                "id": "00045",
+                "question": "Apa saja kewajiban pengusaha terkait K3?",
+                "answers": [
+                    {
+                        "text": "Kewajiban pengusaha terkait K3 meliputi menyediakan alat pelindung diri, memelihara lingkungan kerja, memberikan pelatihan K3, dan mengikutsertakan pekerja/buruh dalam program jaminan sosial ketenagakerjaan.",
+                        "answer_start": 432
+                    }
+                ]
+            },
+            {
+                "id": "00046",
+                "question": "Apa hak pekerja/buruh dalam hal K3?",
+                "answers": [
+                    {
+                        "text": "Hak pekerja/buruh dalam hal K3 antara lain mendapatkan perlindungan keselamatan dan kesehatan kerja, mengajukan keluhan, dan mendapatkan ganti rugi jika mengalami kecelakaan kerja atau penyakit akibat kerja.",
+                        "answer_start": 639
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Waktu kerja adalah waktu yang harus digunakan pekerja/buruh untuk melakukan pekerjaan, sedangkan waktu istirahat adalah waktu yang diberikan kepada pekerja/buruh untuk beristirahat. Waktu kerja maksimum adalah 7 jam dalam 1 hari atau 40 jam dalam 1 minggu untuk 6 hari kerja dalam 1 minggu. Pekerja/buruh berhak mendapatkan istirahat mingguan 1 hari untuk 6 hari kerja dalam 1 minggu atau 2 hari untuk 5 hari kerja dalam 1 minggu. Waktu kerja lembur adalah waktu kerja yang melebihi 7 jam sehari atau 40 jam seminggu. Upah lembur dihitung dengan membayar 1,5 kali upah normal untuk jam pertama dan 2 kali upah normal untuk jam kerja lembur berikutnya. Hak cuti pekerja/buruh meliputi cuti tahunan minimal 12 hari kerja setelah bekerja selama 12 bulan, cuti haid bagi pekerja/buruh perempuan, cuti melahirkan, dan cuti khusus sesuai dengan ketentuan yang berlaku.",
+        "qas": [
+            {
+                "id": "00047",
+                "question": "Apa itu waktu kerja dan waktu istirahat?",
+                "answers": [
+                    {
+                        "text": "Waktu kerja adalah waktu yang harus digunakan pekerja/buruh untuk melakukan pekerjaan, sedangkan waktu istirahat adalah waktu yang diberikan kepada pekerja/buruh untuk beristirahat.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00048",
+                "question": "Berapa jam maksimum waktu kerja dalam sehari?",
+                "answers": [
+                    {
+                        "text": "Waktu kerja maksimum adalah 7 jam dalam 1 hari atau 40 jam dalam 1 minggu untuk 6 hari kerja dalam 1 minggu.",
+                        "answer_start": 152
+                    }
+                ]
+            },
+            {
+                "id": "00049",
+                "question": "Berapa hari minimal pekerja/buruh berhak mendapatkan istirahat mingguan?",
+                "answers": [
+                    {
+                        "text": "Pekerja/buruh berhak mendapatkan istirahat mingguan 1 hari untuk 6 hari kerja dalam 1 minggu atau 2 hari untuk 5 hari kerja dalam 1 minggu.",
+                        "answer_start": 283
+                    }
+                ]
+            },
+            {
+                "id": "00050",
+                "question": "Apa itu waktu kerja lembur dan bagaimana perhitungannya?",
+                "answers": [
+                    {
+                        "text": "Waktu kerja lembur adalah waktu kerja yang melebihi 7 jam sehari atau 40 jam seminggu. Upah lembur dihitung dengan membayar 1,5 kali upah normal untuk jam pertama dan 2 kali upah normal untuk jam kerja lembur berikutnya.",
+                        "answer_start": 441
+                    }
+                ]
+            },
+            {
+                "id": "00051",
+                "question": "Apa saja hak cuti yang dimiliki pekerja/buruh?",
+                "answers": [
+                    {
+                        "text": "Hak cuti pekerja/buruh meliputi cuti tahunan minimal 12 hari kerja setelah bekerja selama 12 bulan, cuti haid bagi pekerja/buruh perempuan, cuti melahirkan, dan cuti khusus sesuai dengan ketentuan yang berlaku.",
+                        "answer_start": 626
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tenaga kerja anak adalah pekerja/buruh di bawah usia 18 tahun. Aturan hukum tentang tenaga kerja anak diatur dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan dan Konvensi ILO tentang Usia Minimum untuk Diperbolehkan Bekerja. Larangan bagi pengusaha terkait tenaga kerja anak antara lain mempekerjakan anak di bawah usia 13 tahun, mempekerjakan anak pada pekerjaan yang berbahaya, dan mempekerjakan anak pada pekerjaan yang mengganggu perkembangan fisik, mental, dan sosial anak. Aturan hukum tentang pekerja perempuan diatur dalam Undang-Undang Ketenagakerjaan dan Konvensi ILO tentang Pekerja Perempuan. Hak-hak khusus bagi pekerja perempuan antara lain mendapatkan cuti haid, cuti melahirkan, dan fasilitas menyusui bagi pekerja perempuan yang memiliki anak.",
+        "qas": [
+            {
+                "id": "00052",
+                "question": "Apa itu tenaga kerja anak?",
+                "answers": [
+                    {
+                        "text": "Tenaga kerja anak adalah pekerja/buruh di bawah usia 18 tahun.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00053",
+                "question": "Apa aturan hukum tentang tenaga kerja anak?",
+                "answers": [
+                    {
+                        "text": "Aturan hukum tentang tenaga kerja anak diatur dalam Undang-Undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan dan Konvensi ILO tentang Usia Minimum untuk Diperbolehkan Bekerja.",
+                        "answer_start": 55
+                    }
+                ]
+            },
+            {
+                "id": "00054",
+                "question": "Apa saja larangan bagi pengusaha terkait tenaga kerja anak?",
+                "answers": [
+                    {
+                        "text": "Larangan bagi pengusaha terkait tenaga kerja anak antara lain mempekerjakan anak di bawah usia 13 tahun, mempekerjakan anak pada pekerjaan yang berbahaya, dan mempekerjakan anak pada pekerjaan yang mengganggu perkembangan fisik, mental, dan sosial anak.",
+                        "answer_start": 194
+                    }
+                ]
+            },
+            {
+                "id": "00055",
+                "question": "Apa aturan hukum tentang pekerja perempuan?",
+                "answers": [
+                    {
+                        "text": "Aturan hukum tentang pekerja perempuan diatur dalam Undang-Undang Ketenagakerjaan dan Konvensi ILO tentang Pekerja Perempuan.",
+                        "answer_start": 430
+                    }
+                ]
+            },
+            {
+                "id": "00056",
+                "question": "Apa hak-hak khusus bagi pekerja perempuan?",
+                "answers": [
+                    {
+                        "text": "Hak-hak khusus bagi pekerja perempuan antara lain mendapatkan cuti haid, cuti melahirkan, dan fasilitas menyusui bagi pekerja perempuan yang memiliki anak.",
+                        "answer_start": 511
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja di wilayah Indonesia. Syarat-syarat untuk mempekerjakan tenaga kerja asing antara lain memiliki rencana penggunaan tenaga kerja asing, memiliki izin mempekerjakan tenaga kerja asing (IMTA), dan membayar dana kompensasi. Hak tenaga kerja asing di Indonesia antara lain mendapatkan upah, kesempatan yang sama untuk mengembangkan karir, dan memperoleh jaminan sosial. Kewajiban tenaga kerja asing antara lain mentaati peraturan perundang-undangan, membayar pajak, dan mentransfer keahlian kepada tenaga kerja Indonesia. Proses perpanjangan izin mempekerjakan tenaga kerja asing dilakukan dengan mengajukan permohonan perpanjangan IMTA kepada instansi yang berwenang, dengan melampirkan dokumen-dokumen yang dipersyaratkan.",
+        "qas": [
+            {
+                "id": "00057",
+                "question": "Apa itu tenaga kerja asing?",
+                "answers": [
+                    {
+                        "text": "Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja di wilayah Indonesia.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00058",
+                "question": "jelaskan tentang tenaga kerja asing?",
+                "answers": [
+                    {
+                        "text": "Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja di wilayah Indonesia.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00059",
+                "question": "Apa yang dimaksud dengan tenaga kerja asing?",
+                "answers": [
+                    {
+                        "text": "Tenaga kerja asing adalah warga negara asing pemegang visa dengan maksud bekerja di wilayah Indonesia.",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00060",
+                "question": "Apa saja syarat-syarat untuk mempekerjakan tenaga kerja asing?",
+                "answers": [
+                    {
+                        "text": "Syarat-syarat untuk mempekerjakan tenaga kerja asing antara lain memiliki rencana penggunaan tenaga kerja asing, memiliki izin mempekerjakan tenaga kerja asing (IMTA), dan membayar dana kompensasi.",
+                        "answer_start": 113
+                    }
+                ]
+            },
+            {
+                "id": "00061",
+                "question": "Apa hak dan kewajiban tenaga kerja asing di Indonesia?",
+                "answers": [
+                    {
+                        "text": "Hak tenaga kerja asing di Indonesia antara lain mendapatkan upah, kesempatan yang sama untuk mengembangkan karir, dan memperoleh jaminan sosial. Kewajiban tenaga kerja asing antara lain mentaati peraturan perundang-undangan, membayar pajak, dan mentransfer keahlian kepada tenaga kerja Indonesia.",
+                        "answer_start": 241
+                    }
+                ]
+            },
+            {
+                "id": "00062",
+                "question": "Bagaimana proses perpanjangan izin mempekerjakan tenaga kerja asing?",
+                "answers": [
+                    {
+                        "text": "Proses perpanjangan izin mempekerjakan tenaga kerja asing dilakukan dengan mengajukan permohonan perpanjangan IMTA kepada instansi yang berwenang, dengan melampirkan dokumen-dokumen yang dipersyaratkan.",
+                        "answer_start": 545
+                    }
+                ]
+            }
+        ]
+    }
+]

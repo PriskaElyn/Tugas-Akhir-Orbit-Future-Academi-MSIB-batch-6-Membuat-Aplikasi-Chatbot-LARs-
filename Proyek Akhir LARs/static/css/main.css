@@ -1,0 +1,454 @@
+/* General Styles */
+* {
+  box-sizing: border-box;
+}
+html, body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+#containerAnimasi {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 100;
+}
+
+#animasiGeser {
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  transition: left 0.5s ease-in-out;
+}
+
+/* Header Styles */
+.header {
+  width: 100%;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.header__logo a {
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 28px;
+  color: rgb(0, 0, 255);
+  margin: auto 80px;
+  text-decoration: none;
+}
+
+.header__nav {
+  margin-left: auto;
+}
+
+.header__nav a {
+  margin-right: 40px;
+  font-family: Arial;
+  font-weight: lighter;
+  font-size: 16px;
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.header__auth {
+  margin-left: 40px;
+}
+
+.header__auth a {
+  margin-right: 20px;
+  font-family: Arial;
+  font-weight: 65 Medium;
+  font-size: 16px;
+  color: #000;
+  text-decoration: none;
+}
+
+
+/* Body Main Section Styles */
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-section {
+  width: 100%;
+  flex: 1;
+}
+
+/* Hero styles*/
+.hero {
+  display: flex;
+  width: auto;
+  height: auto;
+  background-color: rgb(0, 0, 255);
+  justify-content: space-between;
+}
+
+.hero__text {
+  margin: 40px 80px;
+  color: #fff;
+}
+
+.hero__text h1 {
+  font-family: Arial;
+  font-size: 56px;
+  color: #ffffff;
+  margin: 0;
+}
+
+.hero__text p {
+  margin: 0;
+}
+
+.hero__text button {
+  margin-top: 10rem;
+  padding: 10px 50px;
+  font-size: 18px;
+  background-color: #e6e6e6;
+  color: #000000;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.hero__text button:hover {
+  border: #e6e6e6 solid 0.5px;
+  background-color: rgb(0, 0, 200);
+  color: rgb(185, 242, 255);
+  text-shadow: 0 0 5px aqua;
+}
+
+.hero__image {
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+  width: 60%;
+  height: 100%;
+}
+
+.hero__image .image-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.hero__image .image-container img{
+  background-size: 73%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+  width: 400px;
+  height: 400px;
+  float: right;
+}
+
+
+/* About/Tentang kami styles*/
+.about-section {
+  background-color: #e6e6e6;
+  background-size: 340px 100%;
+  background-position: left;
+  background-position-x: 82px;
+  background-repeat: no-repeat;
+  padding: 3% 5%;
+}
+.about-section__text{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.about-section__text h1{
+  font-family: Poppins;
+  font-weight: 1000;
+  font-size: 24px;
+  margin: 0 30% 0 60px;
+  white-space: nowrap;
+}
+.about-section__text p {
+  text-align: justify;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 80%;
+}
+
+/* Our services styles*/
+.services-section {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.service-card__container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.service-card {
+  background-color: #e6e6e6;
+  border-radius: 10px;
+  width: 250px;
+  padding: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.service-card.blue {
+  background-color: blue;
+  color: white;
+}
+
+.service-card__image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.service-card__text {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.service-card__text p {
+  font-size: 13px;
+}
+
+.see-more-btn {
+  background: linear-gradient(0deg, rgb(230, 230, 230, 0.97) 50%, rgba(255, 255, 255, 0) 90%);
+  opacity: 0; 
+  transition: opacity 0.3s; 
+  position: relative;
+  width: 100%;
+  height: 20%; 
+  bottom: 4rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+.service-card.blue .see-more-btn {
+  background: linear-gradient(0deg, rgb(0, 0, 255, 0.75) 50%, rgba(255, 255, 255, 0) 90%);
+}
+
+.see-more-btn a {
+  padding: 8px 16px;
+  border-radius: 10px;
+  border: #e6e6e6 solid 0.5px;
+  background-color: #00B0FF;
+  color: #ffffff;
+  text-shadow: 0 0 5px aqua;
+  text-decoration: none;
+}
+
+.service-card:hover {
+  transform: scale(1.05);
+}
+
+.service-card:hover .see-more-btn, .service-card.blue:hover .see-more-btn {
+  opacity: 0.9;
+}
+
+.goals{
+  font-size: large;
+  margin: 2%;
+  width: 55%;
+  text-align: center; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*team member styles*/
+.team-members {
+  margin: 2rem 0;
+}
+.team-members h2 {
+  text-align: center;
+}
+.team-members-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.team-card {
+  width: fit-content;
+  margin: 5px;
+  background-color: #e6e6e6;
+  border-radius: 100% 100% 0 0;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.team-card-image {
+  width: 200px;
+  height: 200px;
+  background-color: #e6e6e6;
+  padding: 10px;
+  overflow: hidden;
+  border-radius: 100% 100% 0 0;
+}
+
+.team-card-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 100% 100% 0 0;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.team-card-text {
+  padding: 5px;
+}
+
+.team-card-text h3 {
+  font-size: 12px;
+  margin: 0;
+}
+
+.team-card-text p {
+  margin: 1px auto;
+  font-size: 11px;
+  color: #888;
+}
+
+/* Efek hover */
+.team-card-image img:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  transform: translateY(-10px);
+}
+
+/* image-left Styles */
+.image-left {
+  position: relative;
+  float: left;
+  left: -65px;
+  width: fit-content;
+  height: fit-content;
+  margin: 0;
+}
+
+.image-left img {
+  width: 200px;
+  height: 200px;
+}
+
+/* image-right Styles */
+.image-right {
+  position: relative;
+  float: right;
+  right: -65px;
+  width: fit-content;
+  height: fit-content;
+  margin: 0;
+}
+
+.image-right img {
+  width: 200px;
+  height: 200px;
+}
+/* Footer Styles */
+.footer {
+  background-color: rgb(249, 250, 215);
+  width: 100%;
+  height: auto;
+  color: #000;
+  padding: 25px 0;
+}
+
+.footer__description {
+  position: relative;
+  font-family: "Avenir LT Std";
+  font-size: 20px;
+  margin: 16px 5%;
+}
+
+.footer__container {
+  display: flex;
+  margin: 1% 5.7%;
+  justify-content: space-between;
+}
+
+.footer__logo {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 24px;
+  color: #0d08f9;
+}
+
+.footer__list {
+  display: flex;
+  align-items: flex-start;
+}
+
+.footer__nav, .footer__contact {
+  display: flex;
+  flex-direction: column;
+  margin: 0 16px;
+}
+
+.footer__nav span, .footer__contact span {
+  font-family: Poppins;
+  font-weight: 300;
+  font-size: 14px;
+  color: #000;
+  margin-bottom: 18px;
+}
+
+.footer__nav a, .footer__contact a {
+  font-family: Poppins;
+  font-weight: 300;
+  font-size: 12px;
+  color: #000;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.footer__bottom {
+  border-top: #fff solid 1px;
+  display: flex;
+  margin: auto 5%;
+  justify-content: space-between;
+}
+
+.footer__copyright {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.footer__social{
+  display: flex;
+  position: relative;
+}
+.footer__social a {
+  display: inline-flex;
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 12px;
+  color: #000;
+  padding: 0 14px;
+  text-decoration: none;
+}
